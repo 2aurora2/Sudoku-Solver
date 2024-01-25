@@ -1,0 +1,4 @@
+PuLP==2.8.0
+PyQt5==5.15.10
+PyQt5_sip==12.13.0
+PyQt_Fluent_Widgets==1.4.6
